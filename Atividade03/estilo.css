@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	padding: 150px;
+}
+
+img {
+	height: 400px;
+	width: 400px;
+	border-radius: 35px;
+}
+
+ul#lista1 li {
+	display: inline-block;
+}
+
+
+.lista-colunas {
+	columns: 2;
+   -webkit-columns: 2;
+   -moz-columns: 2;
+}

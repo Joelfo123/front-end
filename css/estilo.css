@@ -1,0 +1,118 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+}
+
+ul {
+  display: inline-block;
+}
+
+.madeBy {
+	color: white;
+	text-align: center;
+	background-color: rgb(8, 48, 59);
+}
+
+.conteiner-portfolio img:hover {
+	background-color: lightgrey;
+	display: inline-flex;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px;
+}
+
+.conteiner-portfolio {
+	padding: 100px;
+	text-align: center;
+}
+
+
+.footer {
+	background-color: rgb(14, 88, 107);
+	flex-direction: column;
+	color:white;
+}
+
+.navbar li {
+	display: inline;
+}
+
+.navbar {
+	background-color: rgb(14, 88, 107);
+}
+
+.navbar li a {
+  display: inline block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: lightgrey;
+  border-radius: 80px;
+}
+
+.github :hover {
+	background-color: lightgrey;
+  	border-radius: 80px;
+
+}
+
+.localização {
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+.nome-perfil {
+	font-size: 60px;
+	font-style: bold;
+	text-transform: uppercase;
+}
+
+.imagem-perfil {
+	border-radius: 400px;
+	flex-direction: column;
+}
+
+.conteiner-perfil {
+	text-align: center;
+	background-color: rgb(7, 171, 135);
+	color: white;
+	padding-top: 50px;
+	font-size: 60px;
+}
+
+.nome {
+	text-transform: uppercase;
+}
+
+.texto-portfolio {
+	text-align: center;
+	padding: 50px;
+	font-size: 60px;
+}
+
+.conteiner-sobre {
+	padding: 50px;
+	text-align: center;
+	background-color: rgb(7, 171, 135);
+	color: white;
+	padding-top: 50px;
+	font-size: 60px;
+}
+
+.texto-sobre {
+	font-size: 20px;
+
+}
+
+
+.contato {
+	padding: 100px;
+}
+
+.titulo-contato {
+	text-align: center;
+	font-size: 60px;
+}
